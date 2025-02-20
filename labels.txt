@@ -1,0 +1,3 @@
+0 near
+1 leave
+2 multiple
